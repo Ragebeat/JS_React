@@ -8,26 +8,3 @@
     grid-gap: 2px;
     background-color: gray;
 }
-
-.header {
-    grid-area: header;
-    background-color: lightblue;
-}
-
-.header img {
-    width: 60px;
-}
-
-.nav {
-    grid-area: nav;
-    background-color: lightblue;
-}
-
-.content {
-    grid-area: content;
-    background-color: lightgray;
-}
-
-.content img {
-    height: 75vh;
-}
