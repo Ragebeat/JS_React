@@ -3,7 +3,7 @@ import s from './Settings.module.css';
 
 const Settings = () => {
     return (
-        <div>Settings</div>
+        <div className={s.div}>Settings</div>
     );
 }
 

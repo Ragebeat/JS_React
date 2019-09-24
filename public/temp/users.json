@@ -8,9 +8,24 @@
       "avatar": "https://i.pinimg.com/originals/0c/a9/e2/0ca9e28dcb12dc698cfd2beda6d6fa64.jpg",
       "location": {
         "city": "Minsk",
-        "country": "Belarus"
-      }
-    },
+        "country": "Belarus",
+        //"headers": {
+         // "API-KEY": "28ea9fcf-a1e5-474e-acfd-ed2d434e2742"}
+      },
+      "aboutMe": "Ya Krutoi chuvak",
+      "contacts": {
+        "facebook": "facebook.com",
+        "vk": "vk.com",
+        "twitter": "twitter.com",
+        "instagram": "instagram.com",
+        "youtube": "youtube.com",
+        "github": "github.com",
+        "mainlink": "mainlink.com",
+        "website": null
+      },
+      "lookingForJob": true,
+      "lookingForJobDescription": "ishu meeeeeedlenno"
+  },
     {
       "id": 2,
       "followed": true,
@@ -20,7 +35,20 @@
       "location": {
         "city": "Moscow",
         "country": "Russia"
-      }
+      },
+      "aboutMe": "AZAZA",
+      "contacts": {
+        "facebook": "facebook.com",
+        "vk": "vk.com",
+        "twitter": "twitter.com",
+        "instagram": "instagram.com",
+        "youtube": "youtube.com",
+        "github": "github.com",
+        "mainlink": "mainlink.com",
+        "website": "http://moisait.io"
+      },
+      "lookingForJob": true,
+      "lookingForJobDescription": "srochno"
     },
     {
       "id": 3,
@@ -31,7 +59,20 @@
       "location": {
         "city": "Kiev",
         "country": "Ukraine"
-      }
+      },
+      "aboutMe": "milaya dama",
+      "contacts": {
+        "facebook": "facebook.com",
+        "vk": "vk.com",
+        "twitter": "twitter.com",
+        "instagram": "instagram.com",
+        "youtube": "youtube.com",
+        "github": "github.com",
+        "mainlink": "mainlink.com",
+        "website": "http://moisait.io"
+      },
+      "lookingForJob": false,
+      "lookingForJobDescription": "na pensii"
     },
     {
       "id": 4,
@@ -42,7 +83,20 @@
       "location": {
         "city": "Vologda",
         "country": "Russia"
-      }
+      },
+      "aboutMe": "lampovaya nyasha",
+      "contacts": {
+        "facebook": "facebook.com",
+        "vk": "vk.com",
+        "twitter": "twitter.com",
+        "instagram": "instagram.com",
+        "youtube": "youtube.com",
+        "github": "github.com",
+        "mainlink": "mainlink.com",
+        "website": "http://moisait.io"
+      },
+      "lookingForJob": true,
+      "lookingForJobDescription": "u aligarha"
     },
     {
       "id": 5,
@@ -53,7 +107,20 @@
       "location": {
         "city": "Piter",
         "country": "Russia"
-      }
+      },
+      "aboutMe": "hackersha",
+      "contacts": {
+        "facebook": "facebook.com",
+        "vk": "vk.com",
+        "twitter": "twitter.com",
+        "instagram": "instagram.com",
+        "youtube": "youtube.com",
+        "github": "github.com",
+        "mainlink": "mainlink.com",
+        "website": "http://moisait.io"
+      },
+      "lookingForJob": true,
+      "lookingForJobDescription": "u naivnih bankirchikov hahaha"
     },
     {
       "id": 6,
@@ -64,7 +131,20 @@
       "location": {
         "city": "N.Novgorod",
         "country": "Russia"
-      }
+      },
+      "aboutMe": "Nyanya?",
+      "contacts": {
+        "facebook": "facebook.com",
+        "vk": "vk.com",
+        "twitter": "twitter.com",
+        "instagram": "instagram.com",
+        "youtube": "youtube.com",
+        "github": "github.com",
+        "mainlink": "mainlink.com",
+        "website": "http://moisait.io"
+      },
+      "lookingForJob": true,
+      "lookingForJobDescription": "Nya~~~~~~"
     },
     {
       "id": 7,
@@ -75,7 +155,20 @@
       "location": {
         "city": "Washington",
         "country": "USA"
-      }
+      },
+      "aboutMe": "Hate fcking zombies?",
+      "contacts": {
+        "facebook": "facebook.com",
+        "vk": "vk.com",
+        "twitter": "twitter.com",
+        "instagram": "instagram.com",
+        "youtube": "youtube.com",
+        "github": "github.com",
+        "mainlink": "mainlink.com",
+        "website": "http://moisait.io"
+      },
+      "lookingForJob": true,
+      "lookingForJobDescription": "with a gun"
     },
     {
       "id": 8,
@@ -86,7 +179,20 @@
       "location": {
         "city": "Ulan-bati",
         "country": "Russia"
-      }
+      },
+      "aboutMe": "Yohohohh i butilka roma",
+      "contacts": {
+        "facebook": "facebook.com",
+        "vk": "vk.com",
+        "twitter": "twitter.com",
+        "instagram": "instagram.com",
+        "youtube": "youtube.com",
+        "github": "github.com",
+        "mainlink": "mainlink.com",
+        "website": "http://moisait.io"
+      },
+      "lookingForJob": true,
+      "lookingForJobDescription": "na piratskom sudne"
     }
   ]
 }
